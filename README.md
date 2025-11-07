@@ -8,4 +8,6 @@ If u enter first letter of each statement u will have snippet provided in hint o
 
 Simple!
 
-# Author - M3100 Dzhamalutdinov Muslim ITMO FITP SE y29 
+## Functions in 
+
+# Author - M3100 Dzhamalutdinov Muslim 
