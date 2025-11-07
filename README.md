@@ -13,6 +13,7 @@ If u enter first letter of each statement u will have snippet provided in hint o
 |    w   |   while  (    | 
 |   f    |  for (int i = |
 |   i    | if (          |
+| std    | std::cout     | 
 
 Simple!
 
